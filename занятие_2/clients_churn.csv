@@ -1,0 +1,4 @@
+﻿client_id,card_type,history_complete,target_churn_june
+C001,Дебетовая,True,0
+C002,Кредитная,True,1
+C003,Дебетовая,True,1
